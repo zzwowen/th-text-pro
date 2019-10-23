@@ -1,0 +1,2 @@
+webpackJsonp([8],{em0v:function(e,n){e.exports=[{path:"/",name:"HelloWorld",component:"Main",redirect:"/demo"},{path:"/demo",name:"HelloWorld",component:"Main",redirect:"/demo/my",children:[{path:"my",name:"Demo",component:"Demo"}]},{path:"/mng",name:"管理",component:"Main",redirect:"/mng/settings",children:[{path:"settings",name:"设置",component:"Settings"}]},{path:"*",hidden:!0,component:"NotFound"}]}});
+//# sourceMappingURL=8.99cc2107630fadc87bdb.js.map
