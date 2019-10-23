@@ -1,0 +1,7 @@
+{
+  "name": "Demo",
+  "adminInfos":[[0,[1]],[1,[4]]],
+  "cityRole":[3,4],
+  "provinceRole":[1,2],
+  "otherProvinceRole":[5]
+}

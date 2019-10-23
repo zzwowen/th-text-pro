@@ -1,0 +1,2 @@
+webpackJsonp([10],{exzi:function(e,o){e.exports={name:"Demo",adminInfos:[[0,[1]],[1,[4]]],cityRole:[3,4],provinceRole:[1,2],otherProvinceRole:[5]}}});
+//# sourceMappingURL=10.e951ef612824c306d360.js.map

@@ -1,0 +1,36 @@
+[
+	{
+		"path": "/",
+		"name": "HelloWorld",
+		"component": "Main",
+		"redirect": "/demo"
+	}, {
+		"path": "/demo",
+		"name": "HelloWorld",
+		"component": "Main",
+		"redirect": "/demo/my",
+		"children": [
+			{
+				"path": "my",
+				"name": "Demo",
+				"component": "Demo"
+			}
+		]
+	}, {
+		"path": "/mng",
+		"name": "管理",
+		"component": "Main",
+		"redirect": "/mng/settings",
+		"children": [
+			{
+				"path": "settings",
+				"name": "设置",
+				"component": "Settings"
+			}
+		]
+	}, {
+		"path": "*",
+		"hidden": true,
+		"component": "NotFound"
+	}
+]

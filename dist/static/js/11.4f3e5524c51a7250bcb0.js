@@ -1,0 +1,2 @@
+webpackJsonp([11],{"Pve+":function(e,o){e.exports={name:"Demo",adminInfos:[[0,[1]],[1,[4]]],cityRole:[3,4],provinceRole:[1,2],otherProvinceRole:[5]}}});
+//# sourceMappingURL=11.4f3e5524c51a7250bcb0.js.map
